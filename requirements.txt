@@ -1,0 +1,4 @@
+pandas==2.1.0
+polars==0.19.15
+pyarrow==14.0.1
+xlrd==2.0.1
